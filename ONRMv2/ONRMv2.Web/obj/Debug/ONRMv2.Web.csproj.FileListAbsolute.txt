@@ -1,6 +1,0 @@
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\bin\ONRMv2.Web.dll.config
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\bin\ONRMv2.Web.dll
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\bin\ONRMv2.Web.pdb
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\obj\Debug\ONRMv2.Web.csprojResolveAssemblyReference.cache
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\obj\Debug\ONRMv2.Web.dll
-c:\users\joe\documents\visual studio 2013\Projects\ONRMv2\ONRMv2.Web\obj\Debug\ONRMv2.Web.pdb
