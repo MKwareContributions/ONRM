@@ -11,30 +11,26 @@ It's my first project that was made with C# and Silverlight
 
 ---
 
-**ONRM CAN BE OPENED IN IE ONLY!!!**
+ONRM requires Silverlight plugin in your browser in order to work.
+
+Modern web browsers won't work with Silverlight. Install Silverlight plugin first and then use IE to open ONRM.
 
 ---
 
-Public instance: https://mkware.eu.org/ONRM/
+Public instance: https://mkware.eu.org/onrm/
 
-## Installation
-
-### (Home-) server owner
-
-1. Download `front-end` directory
-2. Place all the files into your webserver
-
-### Developer
-
-#### Getting source code
+### Getting source code
 
 1. Download `source` directory
 2. Open `ONRM.sln` in VS (2013 at least)
 
-#### Compiling
+### Compiling
 
-1. Click "Build" at the menu bar
-2. Click "Build Solution"
-3. Go to `source/ONRM.Web` and copy everything to other directory
-4. Delete following directories and files: `obj`, `Properties`, `ONRM.Web.csproj`, `ONRM.Web.csproj.user`, `Web.Debug.config`, `Web.Release.config`
-5. Done
+1. In "Solution Explorer" select `ONRMv2.Web`
+2. Click "Build" in menu bar
+3. Click "Publish ONRMv2.Web"
+4. Create new publishing profile with the settings you need. I'd recommend to publish on local machine. To do this, click "Custom" > Name your profile whatever you want > "Publish method = File System" > In "Target location" select directory where you want to place compiled program (i.e. Desktop)
+5. Click "Publish"
+6. Done
+
+There is also pre-compiled ONRM in `front-end` directory. To use it, open `ONRMv2.aspx` in IE.
