@@ -13,7 +13,7 @@ It's my first project that was made with C# and Silverlight
 
 ONRM requires Silverlight plugin in your browser in order to work.
 
-Modern web browsers won't work with Silverlight. Install Silverlight plugin first and then use IE to open ONRM.
+Modern web browsers won't work with Silverlight. Install Silverlight plugin from [here](https://mkware.eu.org/onrm/silverlight/) first and then use IE to open ONRM.
 
 ---
 
